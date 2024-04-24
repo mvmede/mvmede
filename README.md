@@ -8,7 +8,7 @@ Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar neste mundo
 
 ## 📖 Formação
 - Técnologo em Design Gráfico
-- Desenvolvedor Full-Stack pela CoderHouse
+- Desenvolvedor Front-End pela CoderHouse
 
 
 ## 🖥 Habilidades
