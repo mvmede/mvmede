@@ -1,6 +1,6 @@
 <h1 align="center"> 
- Olá, eu sou o Gustavo Mamede! 
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+ Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">,  eu sou o Gustavo Mamede! 
+
 </h1>
 
 ## 📖 Sobre mim
