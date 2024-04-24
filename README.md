@@ -7,7 +7,7 @@
 Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar neste mundo, atualmente trabalho como UX UI Designer.
 
 ## 📖 Formação
-- Técnologo em Design Gráfico
+- Técnologo em Design Gráfico pela [Anhanguera](https://www.anhanguera.com)
 - Desenvolvedor Front-End pela [CoderHouse](https://www.coderhouse.com)
 
 
