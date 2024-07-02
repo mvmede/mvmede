@@ -4,7 +4,7 @@
 </h1>
 
 ## 📖 Sobre mim
-Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar neste mundo, atualmente trabalho como UX UI Designer.
+Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar nesta área de desenvolvedor Front-End, atualmente trabalho como UX UI Designer.
 
 ## 📖 Formação
 - Técnologo em Design Gráfico pela [Anhanguera](https://www.anhanguera.com)
