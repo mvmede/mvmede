@@ -4,7 +4,7 @@
 </h1>
 
 ## 📖 Sobre mim
-Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar nesta área de desenvolvedor Front-End, atualmente trabalho como UX UI Designer.
+Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar nesta área de desenvolvedor Front-End, atualmente trabalho como UX/UI Designer.
 
 ## 📖 Formação
 - Técnologo em Design Gráfico pela [Anhanguera](https://www.anhanguera.com)
@@ -12,6 +12,10 @@ Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar nesta área
 
 
 ## 🖥 Habilidades
+
+<p align="center"> 
+<img src=https://github-readme-stats.vercel.app/api?username=mvmede&theme=gotham&show_icons=true&hide_border=true&count_private=false" alt="gustavo-mamede-stats"/> 
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mvmede-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
