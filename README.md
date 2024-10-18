@@ -20,7 +20,11 @@ Sou um desenvolvedor iniciante e estou muito disposto a me aprimorar nesta área
 <div style="display: inline_block"><br>
   <img align="center" alt="Mvmede-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
   <img align="center" alt="Mvmede-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg">
-  <img align="center" alt="Mvmede-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">     
+  <img align="center" alt="Mvmede-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">     
+  <img align="center" alt="Mvmede-Nuxt.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg">     
+  <img align="center" alt="Mvmede-Vue.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">  
+  <img align="center" alt="Mvmede-React.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"> 
+
 </div>
 
 ## 📱 Contato
